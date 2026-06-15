@@ -1,4 +1,4 @@
-package org.example;
+package org.example.app;
 
 import org.example.service.CineService;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
